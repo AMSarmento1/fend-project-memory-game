@@ -24,4 +24,4 @@ The Memory Game project is part of the Front-End Web Developer Nanodegree Progra
 - [Project Rubric](https://review.udacity.com/#!/rubrics/591/view)
 
 ## Play:
-- Play on GitHub.io: **[PokéMatch Concentration Game](https://AMSarmento1.github.io/memory-game-udacity/)**
+- Play on GitHub.io: **[Concentration Game](https://amsarmento1.github.io/memory-game-github.io/)**
